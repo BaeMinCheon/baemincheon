@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**BaeMinCheon/baemincheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `Contacts`
 
-Here are some ideas to get you started:
+Item | Description
+--- | ---
+Name | MinCheon Bae
+Email | baemincheon@gmail.com
+Blog | https://baemincheon.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# `Career`
+
+Period | Thing
+--- | ---
+2020.03 ~ now | PUBG live tech team (sub role)
+2019.07 ~ now | PUBG console platform contents engineering team (main role)
+2014.03 ~ 2020.02 | Major CSE in [Koreatech university](https://www.koreatech.ac.kr/kor/Main.do)
+2018.11 ~ 2019.04 | N2 unity client programmer
+2015.05 ~ 2017.02 | Service as _Signal Corps_ in Republic of Korean Army
